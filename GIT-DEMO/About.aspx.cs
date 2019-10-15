@@ -13,5 +13,10 @@ namespace GIT_DEMO
         {
 
         }
+
+        public void test()
+        {
+
+        }
     }
 }
