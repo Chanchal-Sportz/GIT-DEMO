@@ -31,5 +31,9 @@ namespace GIT_DEMO
             a = b + c;
             return a;
         }
+        public void test2()
+        {
+
+        }
     }
 }
