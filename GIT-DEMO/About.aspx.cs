@@ -18,10 +18,10 @@ namespace GIT_DEMO
         {
 
         }
-        public void test21()//tedting
+        public void test21()//testing
         {
             int a = 0, b = 5, c = 4 ;
-            a = b - c;
+            a = b + c;
         }
     }
 }
