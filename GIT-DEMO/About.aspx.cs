@@ -25,10 +25,11 @@ namespace GIT_DEMO
             a = b + c;
         }
 
-        public void sub()//testing
+        public int sub()//testing
         {
             int a = 0, b = 5, c = 4 ;
             a = b + c;
+            return a;
         }
     }
 }
