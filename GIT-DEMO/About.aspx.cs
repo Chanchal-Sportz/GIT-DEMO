@@ -20,8 +20,8 @@ namespace GIT_DEMO
         }
         public void test21()//tedting
         {
-            int a = 0, b = 1, c=2 ;
-            a = b + c;
+            int a = 0, b = 5, c = 4 ;
+            a = b - c;
         }
     }
 }
